@@ -77,9 +77,9 @@
       "averageChangeSize": 1
     },
     "javascript": {
-      "totalLinesAdded": 56,
+      "totalLinesAdded": 77,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 3,
+      "totalActiveTime": 4,
       "files": {
         "c:\\javascript\\.vscode\\settings.json": [
           {
@@ -110,6 +110,20 @@
               "removed": []
             },
             "duration": 3,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-03-15T16:15:10.981Z",
+            "fileName": "c:\\javascript\\unterricht01\\250217_dom\\250317_dom\\dom_2_inhalte_lesen\\index.html",
+            "fileType": ".html",
+            "linesAdded": 21,
+            "linesRemoved": 0,
+            "projectName": "javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "html"
           }
         ]
