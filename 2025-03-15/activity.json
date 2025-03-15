@@ -1,0 +1,61 @@
+{
+  "date": "2025-03-15",
+  "projects": {
+    "JsProject": {
+      "totalLinesAdded": 2,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "c:\\JsProject\\VMS-Backend\\Backend\\server.js": [
+          {
+            "timestamp": "2025-03-15T15:19:48.340Z",
+            "fileName": "c:\\JsProject\\VMS-Backend\\Backend\\server.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "JsProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-03-15T15:20:21.040Z",
+            "fileName": "c:\\JsProject\\VMS-Backend\\Backend\\server.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "JsProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ]
+      },
+      "languageStats": {
+        "js": 1
+      },
+      "changeFrequency": {
+        "16": 1
+      },
+      "topFiles": [
+        "c:\\JsProject\\VMS-Backend\\Backend\\server.js"
+      ],
+      "averageChangeSize": 1
+    }
+  },
+  "totalActiveTime": 1,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    16
+  ],
+  "mostUsedLanguages": [
+    "js"
+  ]
+}
