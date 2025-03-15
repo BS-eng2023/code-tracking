@@ -75,6 +75,57 @@
         "c:\\JsProject\\VMS-Backend\\Backend\\server.js"
       ],
       "averageChangeSize": 1
+    },
+    "javascript": {
+      "totalLinesAdded": 56,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 3,
+      "files": {
+        "c:\\javascript\\.vscode\\settings.json": [
+          {
+            "timestamp": "2025-03-15T16:11:46.792Z",
+            "fileName": "c:\\javascript\\.vscode\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          }
+        ],
+        "c:\\javascript\\unterricht01\\250217_dom\\250317_dom\\dom_2_inhalte_lesen\\index.html": [
+          {
+            "timestamp": "2025-03-15T16:14:17.101Z",
+            "fileName": "c:\\javascript\\unterricht01\\250217_dom\\250317_dom\\dom_2_inhalte_lesen\\index.html",
+            "fileType": ".html",
+            "linesAdded": 52,
+            "linesRemoved": 0,
+            "projectName": "javascript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "html"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 0,
+        "html": 3
+      },
+      "changeFrequency": {
+        "17": 3
+      },
+      "topFiles": [
+        "c:\\javascript\\.vscode\\settings.json",
+        "c:\\javascript\\unterricht01\\250217_dom\\250317_dom\\dom_2_inhalte_lesen\\index.html"
+      ],
+      "averageChangeSize": 28
     }
   },
   "totalActiveTime": 1,
