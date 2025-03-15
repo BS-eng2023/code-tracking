@@ -2,9 +2,9 @@
   "date": "2025-03-15",
   "projects": {
     "JsProject": {
-      "totalLinesAdded": 2,
+      "totalLinesAdded": 12,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 1,
+      "totalActiveTime": 3,
       "files": {
         "c:\\JsProject\\VMS-Backend\\Backend\\server.js": [
           {
@@ -33,6 +33,34 @@
               "removed": []
             },
             "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-03-15T16:07:10.222Z",
+            "fileName": "c:\\JsProject\\VMS-Backend\\Backend\\server.js",
+            "fileType": ".js",
+            "linesAdded": 9,
+            "linesRemoved": 0,
+            "projectName": "JsProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-03-15T16:08:31.391Z",
+            "fileName": "c:\\JsProject\\VMS-Backend\\Backend\\server.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "JsProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "js"
           }
         ]
