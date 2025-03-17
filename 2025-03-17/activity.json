@@ -110,6 +110,39 @@
         "c:\\JsProject\\VMS-Backend\\Backend\\server.js"
       ],
       "averageChangeSize": 11
+    },
+    "nodeJS": {
+      "totalLinesAdded": 38,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\nodeJS\\02-parsing-request-bodies\\02-parsing-request-bodies\\app.js": [
+          {
+            "timestamp": "2025-03-17T17:26:42.922Z",
+            "fileName": "c:\\nodeJS\\02-parsing-request-bodies\\02-parsing-request-bodies\\app.js",
+            "fileType": ".js",
+            "linesAdded": 38,
+            "linesRemoved": 0,
+            "projectName": "nodeJS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          }
+        ]
+      },
+      "languageStats": {
+        "js": 0
+      },
+      "changeFrequency": {
+        "18": 0
+      },
+      "topFiles": [
+        "c:\\nodeJS\\02-parsing-request-bodies\\02-parsing-request-bodies\\app.js"
+      ],
+      "averageChangeSize": 38
     }
   },
   "totalActiveTime": 1,
