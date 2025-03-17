@@ -145,9 +145,9 @@
       "averageChangeSize": 38
     },
     "02-parsing-request-bodies": {
-      "totalLinesAdded": 38,
+      "totalLinesAdded": 40,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 0,
+      "totalActiveTime": 1,
       "files": {
         "c:\\nodeJS\\02-parsing-request-bodies\\02-parsing-request-bodies\\app.js": [
           {
@@ -163,6 +163,36 @@
             },
             "duration": 0,
             "language": "js"
+          },
+          {
+            "timestamp": "2025-03-17T21:47:04.203Z",
+            "fileName": "c:\\nodeJS\\02-parsing-request-bodies\\02-parsing-request-bodies\\app.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "02-parsing-request-bodies",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          }
+        ],
+        "c:\\nodeJS\\02-parsing-request-bodies\\message.txt": [
+          {
+            "timestamp": "2025-03-17T21:47:12.657Z",
+            "fileName": "c:\\nodeJS\\02-parsing-request-bodies\\message.txt",
+            "fileType": ".txt",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "02-parsing-request-bodies",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
           }
         ]
       },
