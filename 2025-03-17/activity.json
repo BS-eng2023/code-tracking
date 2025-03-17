@@ -143,6 +143,39 @@
         "c:\\nodeJS\\02-parsing-request-bodies\\02-parsing-request-bodies\\app.js"
       ],
       "averageChangeSize": 38
+    },
+    "02-parsing-request-bodies": {
+      "totalLinesAdded": 38,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\nodeJS\\02-parsing-request-bodies\\02-parsing-request-bodies\\app.js": [
+          {
+            "timestamp": "2025-03-17T21:30:12.647Z",
+            "fileName": "c:\\nodeJS\\02-parsing-request-bodies\\02-parsing-request-bodies\\app.js",
+            "fileType": ".js",
+            "linesAdded": 38,
+            "linesRemoved": 0,
+            "projectName": "02-parsing-request-bodies",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          }
+        ]
+      },
+      "languageStats": {
+        "js": 0
+      },
+      "changeFrequency": {
+        "22": 0
+      },
+      "topFiles": [
+        "c:\\nodeJS\\02-parsing-request-bodies\\02-parsing-request-bodies\\app.js"
+      ],
+      "averageChangeSize": 38
     }
   },
   "totalActiveTime": 1,
