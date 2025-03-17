@@ -112,7 +112,7 @@
       "averageChangeSize": 11
     },
     "nodeJS": {
-      "totalLinesAdded": 91,
+      "totalLinesAdded": 108,
       "totalLinesRemoved": 0,
       "totalActiveTime": 2,
       "files": {
@@ -176,6 +176,22 @@
             },
             "duration": 1,
             "language": "txt"
+          }
+        ],
+        "c:\\nodeJS\\02-using-nodemon-for-autorestarts\\package.json": [
+          {
+            "timestamp": "2025-03-17T22:46:16.622Z",
+            "fileName": "c:\\nodeJS\\02-using-nodemon-for-autorestarts\\package.json",
+            "fileType": ".json",
+            "linesAdded": 17,
+            "linesRemoved": 0,
+            "projectName": "nodeJS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
           }
         ]
       },
