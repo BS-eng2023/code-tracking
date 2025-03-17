@@ -112,9 +112,9 @@
       "averageChangeSize": 11
     },
     "nodeJS": {
-      "totalLinesAdded": 108,
+      "totalLinesAdded": 159,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 2,
+      "totalActiveTime": 4,
       "files": {
         "c:\\nodeJS\\02-parsing-request-bodies\\02-parsing-request-bodies\\app.js": [
           {
@@ -192,6 +192,22 @@
             },
             "duration": 0,
             "language": "json"
+          }
+        ],
+        "c:\\nodeJS\\02-using-nodemon-for-autorestarts\\routes.js": [
+          {
+            "timestamp": "2025-03-17T22:47:56.395Z",
+            "fileName": "c:\\nodeJS\\02-using-nodemon-for-autorestarts\\routes.js",
+            "fileType": ".js",
+            "linesAdded": 51,
+            "linesRemoved": 0,
+            "projectName": "nodeJS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "js"
           }
         ]
       },
