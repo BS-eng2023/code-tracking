@@ -4,17 +4,19 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 152                                          |
-| **Lines Removed** (➖) | 81                                        |
-| **Net Change** (↕)    | 71                |
-| **Active Time** (⌚)   | 8 minutes |
+| **Lines Added** (➕)   | 220                                          |
+| **Lines Removed** (➖) | 83                                        |
+| **Net Change** (↕)    | 137                |
+| **Active Time** (⌚)   | 15 minutes |
 
 
 ## Modified Files
 - **createPreviewComponent.js** (+1, -0)
-- **render.js** (+50, -24)
+- **render.js** (+50, -26)
 - **createContentComponent .js** (+50, -27)
 - **render.js** (+51, -30)
+- **previewComponent.js** (+45, -0)
+- **contentComponent .js** (+23, -0)
 
 ## Visualizations
 
@@ -23,7 +25,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".js" : 233
+".js" : 303
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -32,8 +34,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "11h" : 3
-"12h" : 6
+"12h" : 10
 ```
 
 
-> **Last Updated:** 3/21/2025, 12:16:56 PM
+> **Last Updated:** 3/21/2025, 12:21:56 PM
