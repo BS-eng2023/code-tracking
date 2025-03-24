@@ -418,6 +418,53 @@
         "c:\\javascript\\loesungen02\\aufgabe_250321\\public\\assets\\fe\\js\\index.js"
       ],
       "averageChangeSize": 8.666666666666666
+    },
+    "react": {
+      "totalLinesAdded": 27,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "c:\\javascript\\react\\myapp\\src\\App.js": [
+          {
+            "timestamp": "2025-03-24T10:13:01.958Z",
+            "fileName": "c:\\javascript\\react\\myapp\\src\\App.js",
+            "fileType": ".js",
+            "linesAdded": 26,
+            "linesRemoved": 0,
+            "projectName": "react",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-03-24T10:13:06.713Z",
+            "fileName": "c:\\javascript\\react\\myapp\\src\\App.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "react",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ]
+      },
+      "languageStats": {
+        "js": 1
+      },
+      "changeFrequency": {
+        "11": 1
+      },
+      "topFiles": [
+        "c:\\javascript\\react\\myapp\\src\\App.js"
+      ],
+      "averageChangeSize": 13.5
     }
   },
   "totalActiveTime": 9,
