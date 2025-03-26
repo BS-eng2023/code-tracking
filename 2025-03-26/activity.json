@@ -1,0 +1,47 @@
+{
+  "date": "2025-03-26",
+  "projects": {
+    "new-app": {
+      "totalLinesAdded": 20,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\javascript\\vui\\new-app\\jsconfig.json": [
+          {
+            "timestamp": "2025-03-26T07:57:40.567Z",
+            "fileName": "c:\\javascript\\vui\\new-app\\jsconfig.json",
+            "fileType": ".json",
+            "linesAdded": 20,
+            "linesRemoved": 0,
+            "projectName": "new-app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 0
+      },
+      "changeFrequency": {
+        "8": 0
+      },
+      "topFiles": [
+        "c:\\javascript\\vui\\new-app\\jsconfig.json"
+      ],
+      "averageChangeSize": 20
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    8
+  ],
+  "mostUsedLanguages": [
+    "json"
+  ]
+}
