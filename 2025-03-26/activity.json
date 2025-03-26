@@ -2,9 +2,9 @@
   "date": "2025-03-26",
   "projects": {
     "new-app": {
-      "totalLinesAdded": 21,
+      "totalLinesAdded": 53,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 0,
+      "totalActiveTime": 4,
       "files": {
         "c:\\javascript\\vui\\new-app\\jsconfig.json": [
           {
@@ -35,6 +35,50 @@
               "removed": []
             },
             "duration": 0,
+            "language": "vue"
+          },
+          {
+            "timestamp": "2025-03-26T08:04:14.956Z",
+            "fileName": "c:\\javascript\\vui\\new-app\\src\\components\\Absatz.vue",
+            "fileType": ".vue",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "new-app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "vue"
+          },
+          {
+            "timestamp": "2025-03-26T08:07:04.070Z",
+            "fileName": "c:\\javascript\\vui\\new-app\\src\\components\\Absatz.vue",
+            "fileType": ".vue",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "new-app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "vue"
+          }
+        ],
+        "c:\\javascript\\vui\\new-app\\src\\App.vue": [
+          {
+            "timestamp": "2025-03-26T08:05:06.160Z",
+            "fileName": "c:\\javascript\\vui\\new-app\\src\\App.vue",
+            "fileType": ".vue",
+            "linesAdded": 27,
+            "linesRemoved": 0,
+            "projectName": "new-app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "vue"
           }
         ]
