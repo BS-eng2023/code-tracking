@@ -269,8 +269,8 @@
     },
     "VMS-with-Backend": {
       "totalLinesAdded": 316,
-      "totalLinesRemoved": 46,
-      "totalActiveTime": 11,
+      "totalLinesRemoved": 47,
+      "totalActiveTime": 13,
       "files": {
         "c:\\javascript\\projects\\VMS-with-Backend\\server\\routes\\userRoutes.js": [
           {
@@ -421,6 +421,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-03-27T13:20:08.640Z",
+            "fileName": "c:\\javascript\\projects\\VMS-with-Backend\\client\\assets\\js\\classes\\vehicle.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "VMS-with-Backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "js"
           }
         ]
