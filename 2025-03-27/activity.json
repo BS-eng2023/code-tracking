@@ -266,6 +266,105 @@
         "c:\\javascript\\projects\\VMS-Backend\\Backend\\routes\\userRoutes"
       ],
       "averageChangeSize": 8.8
+    },
+    "VMS-with-Backend": {
+      "totalLinesAdded": 34,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 5,
+      "files": {
+        "c:\\javascript\\projects\\VMS-with-Backend\\server\\routes\\userRoutes.js": [
+          {
+            "timestamp": "2025-03-27T12:59:39.557Z",
+            "fileName": "c:\\javascript\\projects\\VMS-with-Backend\\server\\routes\\userRoutes.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "VMS-with-Backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          }
+        ],
+        "c:\\javascript\\projects\\VMS-with-Backend\\server\\routes\\vehicleRoutes.js": [
+          {
+            "timestamp": "2025-03-27T12:59:54.093Z",
+            "fileName": "c:\\javascript\\projects\\VMS-with-Backend\\server\\routes\\vehicleRoutes.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "VMS-with-Backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "c:\\javascript\\projects\\VMS-with-Backend\\server\\models\\vehicle.js": [
+          {
+            "timestamp": "2025-03-27T13:00:27.791Z",
+            "fileName": "c:\\javascript\\projects\\VMS-with-Backend\\server\\models\\vehicle.js",
+            "fileType": ".js",
+            "linesAdded": 29,
+            "linesRemoved": 0,
+            "projectName": "VMS-with-Backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-03-27T13:00:36.752Z",
+            "fileName": "c:\\javascript\\projects\\VMS-with-Backend\\server\\models\\vehicle.js",
+            "fileType": ".js",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "VMS-with-Backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "c:\\javascript\\projects\\VMS-with-Backend\\server\\db\\connection.js": [
+          {
+            "timestamp": "2025-03-27T13:02:15.285Z",
+            "fileName": "c:\\javascript\\projects\\VMS-with-Backend\\server\\db\\connection.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "VMS-with-Backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "js"
+          }
+        ]
+      },
+      "languageStats": {
+        "js": 5
+      },
+      "changeFrequency": {
+        "13": 1,
+        "14": 4
+      },
+      "topFiles": [
+        "c:\\javascript\\projects\\VMS-with-Backend\\server\\models\\vehicle.js",
+        "c:\\javascript\\projects\\VMS-with-Backend\\server\\routes\\userRoutes.js",
+        "c:\\javascript\\projects\\VMS-with-Backend\\server\\routes\\vehicleRoutes.js",
+        "c:\\javascript\\projects\\VMS-with-Backend\\server\\db\\connection.js"
+      ],
+      "averageChangeSize": 6.8
     }
   },
   "totalActiveTime": 6,
