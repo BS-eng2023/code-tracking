@@ -1,0 +1,111 @@
+{
+  "date": "2025-03-27",
+  "projects": {
+    "VMS-Backend": {
+      "totalLinesAdded": 44,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 6,
+      "files": {
+        "c:\\javascript\\projects\\VMS-Backend\\Backend\\server.js": [
+          {
+            "timestamp": "2025-03-27T11:24:59.397Z",
+            "fileName": "c:\\javascript\\projects\\VMS-Backend\\Backend\\server.js",
+            "fileType": ".js",
+            "linesAdded": 11,
+            "linesRemoved": 0,
+            "projectName": "VMS-Backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-03-27T11:28:39.332Z",
+            "fileName": "c:\\javascript\\projects\\VMS-Backend\\Backend\\server.js",
+            "fileType": ".js",
+            "linesAdded": 23,
+            "linesRemoved": 0,
+            "projectName": "VMS-Backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "c:\\javascript\\projects\\VMS-Backend\\Backend\\routes\\index.js": [
+          {
+            "timestamp": "2025-03-27T11:27:25.265Z",
+            "fileName": "c:\\javascript\\projects\\VMS-Backend\\Backend\\routes\\index.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "VMS-Backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-03-27T11:27:59.956Z",
+            "fileName": "c:\\javascript\\projects\\VMS-Backend\\Backend\\routes\\index.js",
+            "fileType": ".js",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "VMS-Backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "c:\\javascript\\projects\\VMS-Backend\\Backend\\routes\\userRoutes": [
+          {
+            "timestamp": "2025-03-27T11:27:37.105Z",
+            "fileName": "c:\\javascript\\projects\\VMS-Backend\\Backend\\routes\\userRoutes",
+            "fileType": "unknown",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "VMS-Backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          }
+        ]
+      },
+      "languageStats": {
+        "js": 5,
+        "unknown": 1
+      },
+      "changeFrequency": {
+        "12": 6
+      },
+      "topFiles": [
+        "c:\\javascript\\projects\\VMS-Backend\\Backend\\server.js",
+        "c:\\javascript\\projects\\VMS-Backend\\Backend\\routes\\index.js",
+        "c:\\javascript\\projects\\VMS-Backend\\Backend\\routes\\userRoutes"
+      ],
+      "averageChangeSize": 8.8
+    }
+  },
+  "totalActiveTime": 6,
+  "totalProjects": 1,
+  "totalFiles": 3,
+  "mostActiveHours": [
+    12
+  ],
+  "mostUsedLanguages": [
+    "js",
+    "unknown"
+  ]
+}
