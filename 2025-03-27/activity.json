@@ -2,7 +2,7 @@
   "date": "2025-03-27",
   "projects": {
     "VMS-Backend": {
-      "totalLinesAdded": 99,
+      "totalLinesAdded": 190,
       "totalLinesRemoved": 0,
       "totalActiveTime": 13,
       "files": {
@@ -170,6 +170,22 @@
             },
             "duration": 5,
             "language": "json"
+          }
+        ],
+        "c:\\javascript\\projects\\VMS-Backend\\client\\index.js": [
+          {
+            "timestamp": "2025-03-27T12:14:02.066Z",
+            "fileName": "c:\\javascript\\projects\\VMS-Backend\\client\\index.js",
+            "fileType": ".js",
+            "linesAdded": 91,
+            "linesRemoved": 0,
+            "projectName": "VMS-Backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
           }
         ]
       },
