@@ -268,9 +268,9 @@
       "averageChangeSize": 8.8
     },
     "VMS-with-Backend": {
-      "totalLinesAdded": 415,
-      "totalLinesRemoved": 47,
-      "totalActiveTime": 14,
+      "totalLinesAdded": 530,
+      "totalLinesRemoved": 78,
+      "totalActiveTime": 15,
       "files": {
         "c:\\javascript\\projects\\VMS-with-Backend\\server\\routes\\userRoutes.js": [
           {
@@ -473,6 +473,36 @@
             "fileType": ".js",
             "linesAdded": 87,
             "linesRemoved": 0,
+            "projectName": "VMS-with-Backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "c:\\javascript\\projects\\VMS-with-Backend\\client\\assets\\js\\features\\addUser.js": [
+          {
+            "timestamp": "2025-03-27T14:39:51.533Z",
+            "fileName": "c:\\javascript\\projects\\VMS-with-Backend\\client\\assets\\js\\features\\addUser.js",
+            "fileType": ".js",
+            "linesAdded": 115,
+            "linesRemoved": 0,
+            "projectName": "VMS-with-Backend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-03-27T14:40:21.656Z",
+            "fileName": "c:\\javascript\\projects\\VMS-with-Backend\\client\\assets\\js\\features\\addUser.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 31,
             "projectName": "VMS-with-Backend",
             "content": {
               "added": [],
