@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2624                                          |
-| **Lines Removed** (➖) | 146                                        |
-| **Net Change** (↕)    | 2478                |
-| **Active Time** (⌚)   | 131 minutes |
+| **Lines Added** (➕)   | 2631                                          |
+| **Lines Removed** (➖) | 150                                        |
+| **Net Change** (↕)    | 2481                |
+| **Active Time** (⌚)   | 139 minutes |
 
 
 ## Modified Files
@@ -32,13 +32,13 @@
 - **selectbox.js** (+69, -0)
 - **addCar.js** (+189, -0)
 - **addCar.js** (+190, -0)
-- **addUser.js** (+116, -0)
+- **addUser.js** (+123, -3)
 - **logIn.js** (+98, -0)
 - **index.js** (+91, -3)
 - **addCar.js** (+189, -0)
 - **addUser.js** (+115, -0)
 - **logIn.js** (+97, -0)
-- **applyFilters.js** (+78, -6)
+- **applyFilters.js** (+78, -7)
 - **displayCars.js** (+51, -0)
 - **populateFilters.js** (+34, -0)
 
@@ -49,7 +49,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".js" : 2629
+".js" : 2640
 ".log" : 6
 ".json" : 18
 "unknown" : 117
@@ -64,8 +64,8 @@ title Coding activity by hour (count of changes)
 "11h" : 20
 "12h" : 13
 "13h" : 17
-"14h" : 26
+"14h" : 29
 ```
 
 
-> **Last Updated:** 3/31/2025, 2:54:17 PM
+> **Last Updated:** 3/31/2025, 2:59:17 PM
