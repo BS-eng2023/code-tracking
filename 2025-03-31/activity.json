@@ -2,7 +2,7 @@
   "date": "2025-03-31",
   "projects": {
     "JsVMS": {
-      "totalLinesAdded": 1376,
+      "totalLinesAdded": 1565,
       "totalLinesRemoved": 137,
       "totalActiveTime": 102,
       "files": {
@@ -881,6 +881,22 @@
               "removed": []
             },
             "duration": 5,
+            "language": "js"
+          }
+        ],
+        "c:\\javascript\\projects\\JsVMS\\client\\assets\\js\\addCar.js": [
+          {
+            "timestamp": "2025-03-31T12:06:00.407Z",
+            "fileName": "c:\\javascript\\projects\\JsVMS\\client\\assets\\js\\addCar.js",
+            "fileType": ".js",
+            "linesAdded": 189,
+            "linesRemoved": 0,
+            "projectName": "JsVMS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "js"
           }
         ]
