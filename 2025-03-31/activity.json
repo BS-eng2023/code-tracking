@@ -2,9 +2,9 @@
   "date": "2025-03-31",
   "projects": {
     "JsVMS": {
-      "totalLinesAdded": 1086,
+      "totalLinesAdded": 1171,
       "totalLinesRemoved": 88,
-      "totalActiveTime": 74,
+      "totalActiveTime": 78,
       "files": {
         "c:\\javascript\\projects\\JsVMS\\assets\\js\\components\\inputData.js": [
           {
@@ -520,6 +520,20 @@
             },
             "duration": 4,
             "language": "js"
+          },
+          {
+            "timestamp": "2025-03-31T10:40:00.738Z",
+            "fileName": "c:\\javascript\\projects\\JsVMS\\server\\server.js",
+            "fileType": ".js",
+            "linesAdded": 74,
+            "linesRemoved": 0,
+            "projectName": "JsVMS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
           }
         ],
         "c:\\javascript\\projects\\JsVMS\\server\\log\\access.log": [
@@ -578,6 +592,22 @@
             },
             "duration": 1,
             "language": "log"
+          }
+        ],
+        "c:\\javascript\\projects\\JsVMS\\server\\package.json": [
+          {
+            "timestamp": "2025-03-31T10:43:23.947Z",
+            "fileName": "c:\\javascript\\projects\\JsVMS\\server\\package.json",
+            "fileType": ".json",
+            "linesAdded": 11,
+            "linesRemoved": 0,
+            "projectName": "JsVMS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "json"
           }
         ]
       },
