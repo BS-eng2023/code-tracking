@@ -2,9 +2,9 @@
   "date": "2025-03-31",
   "projects": {
     "JsVMS": {
-      "totalLinesAdded": 1174,
+      "totalLinesAdded": 1177,
       "totalLinesRemoved": 88,
-      "totalActiveTime": 78,
+      "totalActiveTime": 81,
       "files": {
         "c:\\javascript\\projects\\JsVMS\\assets\\js\\components\\inputData.js": [
           {
@@ -621,6 +621,20 @@
               "removed": []
             },
             "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-03-31T10:51:28.469Z",
+            "fileName": "c:\\javascript\\projects\\JsVMS\\server\\package.json",
+            "fileType": ".json",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "JsVMS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "json"
           }
         ]
