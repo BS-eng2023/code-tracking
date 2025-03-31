@@ -2,9 +2,9 @@
   "date": "2025-03-31",
   "projects": {
     "JsVMS": {
-      "totalLinesAdded": 622,
-      "totalLinesRemoved": 4,
-      "totalActiveTime": 32,
+      "totalLinesAdded": 750,
+      "totalLinesRemoved": 6,
+      "totalActiveTime": 42,
       "files": {
         "c:\\javascript\\projects\\JsVMS\\assets\\js\\components\\inputData.js": [
           {
@@ -120,6 +120,20 @@
             },
             "duration": 0,
             "language": "js"
+          },
+          {
+            "timestamp": "2025-03-31T09:04:59.879Z",
+            "fileName": "c:\\javascript\\projects\\JsVMS\\assets\\js\\index.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "JsVMS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "js"
           }
         ],
         "c:\\javascript\\projects\\JsVMS\\assets\\js\\logIn.js": [
@@ -183,6 +197,68 @@
               "removed": []
             },
             "duration": 4,
+            "language": "js"
+          }
+        ],
+        "c:\\javascript\\projects\\JsVMS\\assets\\js\\helpers\\populateFilters.js": [
+          {
+            "timestamp": "2025-03-31T09:06:06.687Z",
+            "fileName": "c:\\javascript\\projects\\JsVMS\\assets\\js\\helpers\\populateFilters.js",
+            "fileType": ".js",
+            "linesAdded": 31,
+            "linesRemoved": 0,
+            "projectName": "JsVMS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "js"
+          }
+        ],
+        "c:\\javascript\\projects\\JsVMS\\assets\\js\\helpers\\displayCars.js": [
+          {
+            "timestamp": "2025-03-31T09:06:14.972Z",
+            "fileName": "c:\\javascript\\projects\\JsVMS\\assets\\js\\helpers\\displayCars.js",
+            "fileType": ".js",
+            "linesAdded": 49,
+            "linesRemoved": 0,
+            "projectName": "JsVMS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "c:\\javascript\\projects\\JsVMS\\assets\\js\\components\\selectbox.js": [
+          {
+            "timestamp": "2025-03-31T09:08:18.172Z",
+            "fileName": "c:\\javascript\\projects\\JsVMS\\assets\\js\\components\\selectbox.js",
+            "fileType": ".js",
+            "linesAdded": 48,
+            "linesRemoved": 0,
+            "projectName": "JsVMS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-03-31T09:09:21.713Z",
+            "fileName": "c:\\javascript\\projects\\JsVMS\\assets\\js\\components\\selectbox.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "JsVMS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "js"
           }
         ]
