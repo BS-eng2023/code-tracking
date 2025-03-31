@@ -2,9 +2,9 @@
   "date": "2025-03-31",
   "projects": {
     "JsVMS": {
-      "totalLinesAdded": 1246,
-      "totalLinesRemoved": 88,
-      "totalActiveTime": 83,
+      "totalLinesAdded": 1247,
+      "totalLinesRemoved": 135,
+      "totalActiveTime": 88,
       "files": {
         "c:\\javascript\\projects\\JsVMS\\assets\\js\\components\\inputData.js": [
           {
@@ -666,6 +666,34 @@
             },
             "duration": 1,
             "language": "unknown"
+          },
+          {
+            "timestamp": "2025-03-31T11:09:26.371Z",
+            "fileName": "c:\\javascript\\projects\\JsVMS\\.gitignore",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 21,
+            "projectName": "JsVMS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-03-31T11:09:36.175Z",
+            "fileName": "c:\\javascript\\projects\\JsVMS\\.gitignore",
+            "fileType": "unknown",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "JsVMS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
           }
         ],
         "c:\\javascript\\projects\\JsVMS\\server\\.gitignore": [
@@ -682,6 +710,20 @@
             },
             "duration": 0,
             "language": "unknown"
+          },
+          {
+            "timestamp": "2025-03-31T11:10:31.577Z",
+            "fileName": "c:\\javascript\\projects\\JsVMS\\server\\.gitignore",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 5,
+            "projectName": "JsVMS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
           }
         ],
         "c:\\javascript\\projects\\JsVMS\\client\\.gitignore": [
@@ -691,6 +733,20 @@
             "fileType": "unknown",
             "linesAdded": 23,
             "linesRemoved": 0,
+            "projectName": "JsVMS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-03-31T11:10:08.917Z",
+            "fileName": "c:\\javascript\\projects\\JsVMS\\client\\.gitignore",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 21,
             "projectName": "JsVMS",
             "content": {
               "added": [],
