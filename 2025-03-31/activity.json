@@ -2,9 +2,9 @@
   "date": "2025-03-31",
   "projects": {
     "JsVMS": {
-      "totalLinesAdded": 1315,
+      "totalLinesAdded": 1374,
       "totalLinesRemoved": 135,
-      "totalActiveTime": 89,
+      "totalActiveTime": 97,
       "files": {
         "c:\\javascript\\projects\\JsVMS\\assets\\js\\components\\inputData.js": [
           {
@@ -446,6 +446,34 @@
             },
             "duration": 0,
             "language": "js"
+          },
+          {
+            "timestamp": "2025-03-31T11:27:05.787Z",
+            "fileName": "c:\\javascript\\projects\\JsVMS\\client\\assets\\js\\components\\checkboxes.js",
+            "fileType": ".js",
+            "linesAdded": 56,
+            "linesRemoved": 0,
+            "projectName": "JsVMS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-03-31T11:27:07.831Z",
+            "fileName": "c:\\javascript\\projects\\JsVMS\\client\\assets\\js\\components\\checkboxes.js",
+            "fileType": ".js",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "JsVMS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
           }
         ],
         "c:\\javascript\\projects\\JsVMS\\client\\assets\\js\\components\\inputData.js": [
@@ -783,6 +811,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-03-31T11:25:07.994Z",
+            "fileName": "c:\\javascript\\projects\\JsVMS\\client\\assets\\js\\components\\selectbox.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "JsVMS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
             "language": "js"
           }
         ]
