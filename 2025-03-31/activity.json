@@ -2,9 +2,9 @@
   "date": "2025-03-31",
   "projects": {
     "JsVMS": {
-      "totalLinesAdded": 2536,
-      "totalLinesRemoved": 140,
-      "totalActiveTime": 114,
+      "totalLinesAdded": 2620,
+      "totalLinesRemoved": 146,
+      "totalActiveTime": 124,
       "files": {
         "c:\\javascript\\projects\\JsVMS\\assets\\js\\components\\inputData.js": [
           {
@@ -1102,6 +1102,108 @@
             "fileName": "c:\\javascript\\projects\\JsVMS\\client\\assets\\js\\helpers\\applyFilters.js",
             "fileType": ".js",
             "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "JsVMS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-03-31T12:44:35.037Z",
+            "fileName": "c:\\javascript\\projects\\JsVMS\\client\\assets\\js\\helpers\\applyFilters.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 6,
+            "projectName": "JsVMS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "js"
+          }
+        ],
+        "c:\\javascript\\projects\\JsVMS\\client\\assets\\js\\helpers\\displayCars.js": [
+          {
+            "timestamp": "2025-03-31T12:45:48.792Z",
+            "fileName": "c:\\javascript\\projects\\JsVMS\\client\\assets\\js\\helpers\\displayCars.js",
+            "fileType": ".js",
+            "linesAdded": 49,
+            "linesRemoved": 0,
+            "projectName": "JsVMS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-03-31T12:46:00.633Z",
+            "fileName": "c:\\javascript\\projects\\JsVMS\\client\\assets\\js\\helpers\\displayCars.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "JsVMS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-03-31T12:46:30.648Z",
+            "fileName": "c:\\javascript\\projects\\JsVMS\\client\\assets\\js\\helpers\\displayCars.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "JsVMS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "c:\\javascript\\projects\\JsVMS\\client\\assets\\js\\helpers\\populateFilters.js": [
+          {
+            "timestamp": "2025-03-31T12:47:08.293Z",
+            "fileName": "c:\\javascript\\projects\\JsVMS\\client\\assets\\js\\helpers\\populateFilters.js",
+            "fileType": ".js",
+            "linesAdded": 31,
+            "linesRemoved": 0,
+            "projectName": "JsVMS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-03-31T12:47:09.975Z",
+            "fileName": "c:\\javascript\\projects\\JsVMS\\client\\assets\\js\\helpers\\populateFilters.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "JsVMS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-03-31T12:48:53.261Z",
+            "fileName": "c:\\javascript\\projects\\JsVMS\\client\\assets\\js\\helpers\\populateFilters.js",
+            "fileType": ".js",
+            "linesAdded": 1,
             "linesRemoved": 0,
             "projectName": "JsVMS",
             "content": {
