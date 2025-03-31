@@ -3,8 +3,8 @@
   "projects": {
     "JsVMS": {
       "totalLinesAdded": 1374,
-      "totalLinesRemoved": 135,
-      "totalActiveTime": 97,
+      "totalLinesRemoved": 136,
+      "totalActiveTime": 101,
       "files": {
         "c:\\javascript\\projects\\JsVMS\\assets\\js\\components\\inputData.js": [
           {
@@ -473,6 +473,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-03-31T11:30:43.368Z",
+            "fileName": "c:\\javascript\\projects\\JsVMS\\client\\assets\\js\\components\\checkboxes.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "JsVMS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
             "language": "js"
           }
         ],
