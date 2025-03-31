@@ -2,9 +2,9 @@
   "date": "2025-03-31",
   "projects": {
     "JsVMS": {
-      "totalLinesAdded": 2056,
-      "totalLinesRemoved": 137,
-      "totalActiveTime": 106,
+      "totalLinesAdded": 2458,
+      "totalLinesRemoved": 138,
+      "totalActiveTime": 110,
       "files": {
         "c:\\javascript\\projects\\JsVMS\\assets\\js\\components\\inputData.js": [
           {
@@ -961,6 +961,82 @@
               "removed": []
             },
             "duration": 2,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-03-31T12:22:55.053Z",
+            "fileName": "c:\\javascript\\projects\\JsVMS\\client\\assets\\js\\index.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "JsVMS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-03-31T12:23:33.582Z",
+            "fileName": "c:\\javascript\\projects\\JsVMS\\client\\assets\\js\\index.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "JsVMS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "c:\\javascript\\projects\\JsVMS\\client\\assets\\js\\util\\addCar.js": [
+          {
+            "timestamp": "2025-03-31T12:20:50.734Z",
+            "fileName": "c:\\javascript\\projects\\JsVMS\\client\\assets\\js\\util\\addCar.js",
+            "fileType": ".js",
+            "linesAdded": 189,
+            "linesRemoved": 0,
+            "projectName": "JsVMS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          }
+        ],
+        "c:\\javascript\\projects\\JsVMS\\client\\assets\\js\\util\\addUser.js": [
+          {
+            "timestamp": "2025-03-31T12:20:50.756Z",
+            "fileName": "c:\\javascript\\projects\\JsVMS\\client\\assets\\js\\util\\addUser.js",
+            "fileType": ".js",
+            "linesAdded": 115,
+            "linesRemoved": 0,
+            "projectName": "JsVMS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          }
+        ],
+        "c:\\javascript\\projects\\JsVMS\\client\\assets\\js\\util\\logIn.js": [
+          {
+            "timestamp": "2025-03-31T12:20:50.758Z",
+            "fileName": "c:\\javascript\\projects\\JsVMS\\client\\assets\\js\\util\\logIn.js",
+            "fileType": ".js",
+            "linesAdded": 97,
+            "linesRemoved": 0,
+            "projectName": "JsVMS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "js"
           }
         ]
