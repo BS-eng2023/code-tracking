@@ -2,9 +2,9 @@
   "date": "2025-03-31",
   "projects": {
     "JsVMS": {
-      "totalLinesAdded": 318,
+      "totalLinesAdded": 622,
       "totalLinesRemoved": 4,
-      "totalActiveTime": 24,
+      "totalActiveTime": 32,
       "files": {
         "c:\\javascript\\projects\\JsVMS\\assets\\js\\components\\inputData.js": [
           {
@@ -144,6 +144,38 @@
             "fileName": "c:\\javascript\\projects\\JsVMS\\assets\\js\\helpers\\applyFilters.js",
             "fileType": ".js",
             "linesAdded": 69,
+            "linesRemoved": 0,
+            "projectName": "JsVMS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "js"
+          }
+        ],
+        "c:\\javascript\\projects\\JsVMS\\assets\\js\\addCar.js": [
+          {
+            "timestamp": "2025-03-31T09:03:17.682Z",
+            "fileName": "c:\\javascript\\projects\\JsVMS\\assets\\js\\addCar.js",
+            "fileType": ".js",
+            "linesAdded": 189,
+            "linesRemoved": 0,
+            "projectName": "JsVMS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "js"
+          }
+        ],
+        "c:\\javascript\\projects\\JsVMS\\assets\\js\\addUser.js": [
+          {
+            "timestamp": "2025-03-31T09:03:17.733Z",
+            "fileName": "c:\\javascript\\projects\\JsVMS\\assets\\js\\addUser.js",
+            "fileType": ".js",
+            "linesAdded": 115,
             "linesRemoved": 0,
             "projectName": "JsVMS",
             "content": {
