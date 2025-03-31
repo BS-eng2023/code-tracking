@@ -5,8 +5,8 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 983                                          |
-| **Lines Removed** (➖) | 7                                        |
-| **Net Change** (↕)    | 976                |
+| **Lines Removed** (➖) | 30                                        |
+| **Net Change** (↕)    | 953                |
 | **Active Time** (⌚)   | 61 minutes |
 
 
@@ -21,7 +21,7 @@
 - **displayCars.js** (+49, -0)
 - **selectbox.js** (+69, -2)
 - **logIn.js** (+97, -0)
-- **checkboxes.js** (+56, -0)
+- **checkboxes.js** (+56, -23)
 - **inputData.js** (+59, -0)
 
 ## Visualizations
@@ -31,7 +31,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".js" : 990
+".js" : 1013
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -41,7 +41,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "10h" : 10
 "11h" : 20
+"12h" : 1
 ```
 
 
-> **Last Updated:** 3/31/2025, 12:02:56 PM
+> **Last Updated:** 3/31/2025, 12:12:56 PM
