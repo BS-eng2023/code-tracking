@@ -2,9 +2,9 @@
   "date": "2025-04-01",
   "projects": {
     "JsVMS": {
-      "totalLinesAdded": 366,
+      "totalLinesAdded": 430,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 14,
+      "totalActiveTime": 16,
       "files": {
         "c:\\javascript\\projects\\JsVMS\\server\\package.json": [
           {
@@ -138,6 +138,52 @@
             "fileName": "c:\\javascript\\projects\\JsVMS\\client\\assets\\js\\ApiUser.js",
             "fileType": ".js",
             "linesAdded": 45,
+            "linesRemoved": 0,
+            "projectName": "JsVMS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "c:\\javascript\\projects\\JsVMS\\server\\db\\connection.js": [
+          {
+            "timestamp": "2025-04-01T08:07:32.717Z",
+            "fileName": "c:\\javascript\\projects\\JsVMS\\server\\db\\connection.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "JsVMS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          }
+        ],
+        "c:\\javascript\\projects\\JsVMS\\server\\routes\\userRoutes.js": [
+          {
+            "timestamp": "2025-04-01T08:08:03.886Z",
+            "fileName": "c:\\javascript\\projects\\JsVMS\\server\\routes\\userRoutes.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "JsVMS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-04-01T08:08:07.656Z",
+            "fileName": "c:\\javascript\\projects\\JsVMS\\server\\routes\\userRoutes.js",
+            "fileType": ".js",
+            "linesAdded": 62,
             "linesRemoved": 0,
             "projectName": "JsVMS",
             "content": {

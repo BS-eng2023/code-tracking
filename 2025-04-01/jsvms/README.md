@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 366                                          |
+| **Lines Added** (➕)   | 430                                          |
 | **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 366                |
-| **Active Time** (⌚)   | 14 minutes |
+| **Net Change** (↕)    | 430                |
+| **Active Time** (⌚)   | 16 minutes |
 
 
 ## Modified Files
@@ -19,6 +19,8 @@
 - **carApi.js** (+45, -0)
 - **ApiCar.js** (+45, -0)
 - **ApiUser.js** (+45, -0)
+- **connection.js** (+1, -0)
+- **userRoutes.js** (+63, -0)
 
 ## Visualizations
 
@@ -28,7 +30,7 @@
 pie showData
 title Lines changed by file type
 ".json" : 18
-".js" : 348
+".js" : 412
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -38,7 +40,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "08h" : 3
 "09h" : 6
+"10h" : 3
 ```
 
 
-> **Last Updated:** 4/1/2025, 9:57:23 AM
+> **Last Updated:** 4/1/2025, 10:12:23 AM
