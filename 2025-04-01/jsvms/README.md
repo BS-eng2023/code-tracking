@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 603                                          |
+| **Lines Added** (➕)   | 745                                          |
 | **Lines Removed** (➖) | 67                                        |
-| **Net Change** (↕)    | 536                |
-| **Active Time** (⌚)   | 19 minutes |
+| **Net Change** (↕)    | 678                |
+| **Active Time** (⌚)   | 20 minutes |
 
 
 ## Modified Files
@@ -22,6 +22,7 @@
 - **connection.js** (+2, -0)
 - **userRoutes.js** (+63, -0)
 - **user.js** (+126, -0)
+- **addUser.js** (+142, -0)
 
 ## Visualizations
 
@@ -31,7 +32,7 @@
 pie showData
 title Lines changed by file type
 ".json" : 18
-".js" : 652
+".js" : 794
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -41,8 +42,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "08h" : 3
 "09h" : 6
-"10h" : 8
+"10h" : 10
 ```
 
 
-> **Last Updated:** 4/1/2025, 10:32:23 AM
+> **Last Updated:** 4/1/2025, 10:47:23 AM
