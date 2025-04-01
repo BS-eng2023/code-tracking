@@ -2,9 +2,9 @@
   "date": "2025-04-01",
   "projects": {
     "JsVMS": {
-      "totalLinesAdded": 926,
-      "totalLinesRemoved": 76,
-      "totalActiveTime": 40,
+      "totalLinesAdded": 948,
+      "totalLinesRemoved": 77,
+      "totalActiveTime": 43,
       "files": {
         "c:\\javascript\\projects\\JsVMS\\server\\package.json": [
           {
@@ -423,6 +423,66 @@
               "removed": []
             },
             "duration": 0,
+            "language": "js"
+          }
+        ],
+        "c:\\javascript\\projects\\JsVMS\\server\\db\\settings.js": [
+          {
+            "timestamp": "2025-04-01T10:03:17.458Z",
+            "fileName": "c:\\javascript\\projects\\JsVMS\\server\\db\\settings.js",
+            "fileType": ".js",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "JsVMS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          }
+        ],
+        "c:\\javascript\\projects\\JsVMS\\server\\routes\\vehicleRoutes.js": [
+          {
+            "timestamp": "2025-04-01T10:03:56.637Z",
+            "fileName": "c:\\javascript\\projects\\JsVMS\\server\\routes\\vehicleRoutes.js",
+            "fileType": ".js",
+            "linesAdded": 12,
+            "linesRemoved": 0,
+            "projectName": "JsVMS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-04-01T10:03:57.708Z",
+            "fileName": "c:\\javascript\\projects\\JsVMS\\server\\routes\\vehicleRoutes.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "JsVMS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-04-01T10:04:38.330Z",
+            "fileName": "c:\\javascript\\projects\\JsVMS\\server\\routes\\vehicleRoutes.js",
+            "fileType": ".js",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "JsVMS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "js"
           }
         ]
