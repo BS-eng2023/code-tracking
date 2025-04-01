@@ -2,9 +2,9 @@
   "date": "2025-04-01",
   "projects": {
     "JsVMS": {
-      "totalLinesAdded": 141,
+      "totalLinesAdded": 366,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 9,
+      "totalActiveTime": 14,
       "files": {
         "c:\\javascript\\projects\\JsVMS\\server\\package.json": [
           {
@@ -65,6 +65,86 @@
               "removed": []
             },
             "duration": 0,
+            "language": "js"
+          }
+        ],
+        "c:\\javascript\\projects\\JsVMS\\client\\assets\\js\\userApi.js": [
+          {
+            "timestamp": "2025-04-01T07:52:57.344Z",
+            "fileName": "c:\\javascript\\projects\\JsVMS\\client\\assets\\js\\userApi.js",
+            "fileType": ".js",
+            "linesAdded": 45,
+            "linesRemoved": 0,
+            "projectName": "JsVMS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "c:\\javascript\\projects\\JsVMS\\client\\assets\\js\\userApi copy.js": [
+          {
+            "timestamp": "2025-04-01T07:53:06.954Z",
+            "fileName": "c:\\javascript\\projects\\JsVMS\\client\\assets\\js\\userApi copy.js",
+            "fileType": ".js",
+            "linesAdded": 45,
+            "linesRemoved": 0,
+            "projectName": "JsVMS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "c:\\javascript\\projects\\JsVMS\\client\\assets\\js\\carApi.js": [
+          {
+            "timestamp": "2025-04-01T07:53:23.533Z",
+            "fileName": "c:\\javascript\\projects\\JsVMS\\client\\assets\\js\\carApi.js",
+            "fileType": ".js",
+            "linesAdded": 45,
+            "linesRemoved": 0,
+            "projectName": "JsVMS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "c:\\javascript\\projects\\JsVMS\\client\\assets\\js\\ApiCar.js": [
+          {
+            "timestamp": "2025-04-01T07:53:38.458Z",
+            "fileName": "c:\\javascript\\projects\\JsVMS\\client\\assets\\js\\ApiCar.js",
+            "fileType": ".js",
+            "linesAdded": 45,
+            "linesRemoved": 0,
+            "projectName": "JsVMS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "c:\\javascript\\projects\\JsVMS\\client\\assets\\js\\ApiUser.js": [
+          {
+            "timestamp": "2025-04-01T07:53:51.391Z",
+            "fileName": "c:\\javascript\\projects\\JsVMS\\client\\assets\\js\\ApiUser.js",
+            "fileType": ".js",
+            "linesAdded": 45,
+            "linesRemoved": 0,
+            "projectName": "JsVMS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "js"
           }
         ]
