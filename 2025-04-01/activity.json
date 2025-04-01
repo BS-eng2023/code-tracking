@@ -1,0 +1,47 @@
+{
+  "date": "2025-04-01",
+  "projects": {
+    "JsVMS": {
+      "totalLinesAdded": 18,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\javascript\\projects\\JsVMS\\server\\package.json": [
+          {
+            "timestamp": "2025-04-01T06:11:58.249Z",
+            "fileName": "c:\\javascript\\projects\\JsVMS\\server\\package.json",
+            "fileType": ".json",
+            "linesAdded": 18,
+            "linesRemoved": 0,
+            "projectName": "JsVMS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 0
+      },
+      "changeFrequency": {
+        "8": 0
+      },
+      "topFiles": [
+        "c:\\javascript\\projects\\JsVMS\\server\\package.json"
+      ],
+      "averageChangeSize": 18
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    8
+  ],
+  "mostUsedLanguages": [
+    "json"
+  ]
+}
