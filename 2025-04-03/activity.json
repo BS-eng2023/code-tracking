@@ -2,9 +2,9 @@
   "date": "2025-04-03",
   "projects": {
     "JsVMS": {
-      "totalLinesAdded": 1342,
-      "totalLinesRemoved": 58,
-      "totalActiveTime": 37,
+      "totalLinesAdded": 1482,
+      "totalLinesRemoved": 149,
+      "totalActiveTime": 40,
       "files": {
         "c:\\javascript\\projects\\JsVMS\\server\\server.js": [
           {
@@ -389,6 +389,50 @@
               "removed": []
             },
             "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-04-03T15:21:47.525Z",
+            "fileName": "c:\\javascript\\projects\\JsVMS\\client\\assets\\js\\classes\\car.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 41,
+            "projectName": "JsVMS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "c:\\javascript\\projects\\JsVMS\\client\\assets\\js\\classes\\vehicle.js": [
+          {
+            "timestamp": "2025-04-03T15:19:48.619Z",
+            "fileName": "c:\\javascript\\projects\\JsVMS\\client\\assets\\js\\classes\\vehicle.js",
+            "fileType": ".js",
+            "linesAdded": 140,
+            "linesRemoved": 0,
+            "projectName": "JsVMS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-04-03T15:21:11.654Z",
+            "fileName": "c:\\javascript\\projects\\JsVMS\\client\\assets\\js\\classes\\vehicle.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 50,
+            "projectName": "JsVMS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "js"
           }
         ]
