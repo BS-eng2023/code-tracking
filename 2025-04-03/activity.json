@@ -1,0 +1,95 @@
+{
+  "date": "2025-04-03",
+  "projects": {
+    "JsVMS": {
+      "totalLinesAdded": 387,
+      "totalLinesRemoved": 1,
+      "totalActiveTime": 6,
+      "files": {
+        "c:\\javascript\\projects\\JsVMS\\server\\server.js": [
+          {
+            "timestamp": "2025-04-03T11:14:48.535Z",
+            "fileName": "c:\\javascript\\projects\\JsVMS\\server\\server.js",
+            "fileType": ".js",
+            "linesAdded": 54,
+            "linesRemoved": 0,
+            "projectName": "JsVMS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          }
+        ],
+        "c:\\javascript\\projects\\JsVMS\\client\\assets\\js\\utils\\addUser.js": [
+          {
+            "timestamp": "2025-04-03T11:17:18.154Z",
+            "fileName": "c:\\javascript\\projects\\JsVMS\\client\\assets\\js\\utils\\addUser.js",
+            "fileType": ".js",
+            "linesAdded": 181,
+            "linesRemoved": 0,
+            "projectName": "JsVMS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-04-03T11:18:07.230Z",
+            "fileName": "c:\\javascript\\projects\\JsVMS\\client\\assets\\js\\utils\\addUser.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "JsVMS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "c:\\javascript\\projects\\JsVMS\\client\\assets\\js\\classes\\user.js": [
+          {
+            "timestamp": "2025-04-03T11:19:43.389Z",
+            "fileName": "c:\\javascript\\projects\\JsVMS\\client\\assets\\js\\classes\\user.js",
+            "fileType": ".js",
+            "linesAdded": 152,
+            "linesRemoved": 0,
+            "projectName": "JsVMS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "js"
+          }
+        ]
+      },
+      "languageStats": {
+        "js": 6
+      },
+      "changeFrequency": {
+        "13": 6
+      },
+      "topFiles": [
+        "c:\\javascript\\projects\\JsVMS\\client\\assets\\js\\utils\\addUser.js",
+        "c:\\javascript\\projects\\JsVMS\\server\\server.js",
+        "c:\\javascript\\projects\\JsVMS\\client\\assets\\js\\classes\\user.js"
+      ],
+      "averageChangeSize": 97
+    }
+  },
+  "totalActiveTime": 6,
+  "totalProjects": 1,
+  "totalFiles": 3,
+  "mostActiveHours": [
+    13
+  ],
+  "mostUsedLanguages": [
+    "js"
+  ]
+}
