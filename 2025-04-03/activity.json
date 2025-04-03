@@ -2,7 +2,7 @@
   "date": "2025-04-03",
   "projects": {
     "JsVMS": {
-      "totalLinesAdded": 471,
+      "totalLinesAdded": 565,
       "totalLinesRemoved": 51,
       "totalActiveTime": 11,
       "files": {
@@ -123,6 +123,22 @@
               "removed": []
             },
             "duration": 4,
+            "language": "js"
+          }
+        ],
+        "c:\\javascript\\projects\\JsVMS\\server\\routes\\userRoutes.js": [
+          {
+            "timestamp": "2025-04-03T12:06:24.212Z",
+            "fileName": "c:\\javascript\\projects\\JsVMS\\server\\routes\\userRoutes.js",
+            "fileType": ".js",
+            "linesAdded": 94,
+            "linesRemoved": 0,
+            "projectName": "JsVMS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "js"
           }
         ]
