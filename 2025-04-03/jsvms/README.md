@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 934                                          |
-| **Lines Removed** (➖) | 57                                        |
-| **Net Change** (↕)    | 877                |
-| **Active Time** (⌚)   | 30 minutes |
+| **Lines Added** (➕)   | 1124                                          |
+| **Lines Removed** (➖) | 58                                        |
+| **Net Change** (↕)    | 1066                |
+| **Active Time** (⌚)   | 34 minutes |
 
 
 ## Modified Files
@@ -19,7 +19,8 @@
 - **selectbox.js** (+70, -0)
 - **carApi.js** (+1, -0)
 - **carRoutes.js** (+154, -0)
-- **connection.js** (+135, -0)
+- **connection.js** (+135, -1)
+- **addCar.js** (+190, -0)
 
 ## Visualizations
 
@@ -28,7 +29,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".js" : 991
+".js" : 1182
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -38,8 +39,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "13h" : 8
 "14h" : 7
-"15h" : 6
+"15h" : 8
 ```
 
 
-> **Last Updated:** 4/3/2025, 3:34:47 PM
+> **Last Updated:** 4/3/2025, 3:39:47 PM
