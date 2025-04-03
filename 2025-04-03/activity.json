@@ -3,7 +3,7 @@
   "projects": {
     "JsVMS": {
       "totalLinesAdded": 471,
-      "totalLinesRemoved": 3,
+      "totalLinesRemoved": 51,
       "totalActiveTime": 11,
       "files": {
         "c:\\javascript\\projects\\JsVMS\\server\\server.js": [
@@ -87,6 +87,20 @@
             "fileType": ".js",
             "linesAdded": 2,
             "linesRemoved": 0,
+            "projectName": "JsVMS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-04-03T11:49:34.646Z",
+            "fileName": "c:\\javascript\\projects\\JsVMS\\client\\assets\\js\\classes\\user.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 48,
             "projectName": "JsVMS",
             "content": {
               "added": [],
