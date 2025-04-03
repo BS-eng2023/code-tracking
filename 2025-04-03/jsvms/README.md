@@ -5,14 +5,14 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 1653                                          |
-| **Lines Removed** (➖) | 316                                        |
-| **Net Change** (↕)    | 1337                |
+| **Lines Removed** (➖) | 344                                        |
+| **Net Change** (↕)    | 1309                |
 | **Active Time** (⌚)   | 77 minutes |
 
 
 ## Modified Files
 - **server.js** (+57, -0)
-- **addUser.js** (+182, -3)
+- **addUser.js** (+182, -31)
 - **user.js** (+159, -54)
 - **userApi.js** (+82, -0)
 - **userRoutes.js** (+94, -0)
@@ -31,7 +31,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".js" : 1969
+".js" : 1997
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -43,8 +43,8 @@ title Coding activity by hour (count of changes)
 "14h" : 7
 "15h" : 10
 "17h" : 15
-"18h" : 11
+"18h" : 12
 ```
 
 
-> **Last Updated:** 4/3/2025, 6:49:48 PM
+> **Last Updated:** 4/3/2025, 6:54:48 PM
