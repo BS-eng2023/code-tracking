@@ -2,7 +2,7 @@
   "date": "2025-04-04",
   "projects": {
     "JsVMS": {
-      "totalLinesAdded": 94,
+      "totalLinesAdded": 164,
       "totalLinesRemoved": 0,
       "totalActiveTime": 0,
       "files": {
@@ -12,6 +12,22 @@
             "fileName": "c:\\javascript\\projects\\JsVMS\\server\\routes\\userRoutes.js",
             "fileType": ".js",
             "linesAdded": 94,
+            "linesRemoved": 0,
+            "projectName": "JsVMS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          }
+        ],
+        "c:\\javascript\\projects\\JsVMS\\client\\assets\\js\\helpers\\applyFilters.js": [
+          {
+            "timestamp": "2025-04-04T07:15:34.534Z",
+            "fileName": "c:\\javascript\\projects\\JsVMS\\client\\assets\\js\\helpers\\applyFilters.js",
+            "fileType": ".js",
+            "linesAdded": 70,
             "linesRemoved": 0,
             "projectName": "JsVMS",
             "content": {
