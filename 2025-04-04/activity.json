@@ -2,7 +2,7 @@
   "date": "2025-04-04",
   "projects": {
     "JsVMS": {
-      "totalLinesAdded": 447,
+      "totalLinesAdded": 9917,
       "totalLinesRemoved": 18,
       "totalActiveTime": 18,
       "files": {
@@ -156,6 +156,22 @@
             },
             "duration": 0,
             "language": "js"
+          }
+        ],
+        "c:\\javascript\\projects\\JsVMS\\server\\log\\access.log": [
+          {
+            "timestamp": "2025-04-04T08:01:44.346Z",
+            "fileName": "c:\\javascript\\projects\\JsVMS\\server\\log\\access.log",
+            "fileType": ".log",
+            "linesAdded": 9470,
+            "linesRemoved": 0,
+            "projectName": "JsVMS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "log"
           }
         ]
       },
