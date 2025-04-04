@@ -2,9 +2,9 @@
   "date": "2025-04-04",
   "projects": {
     "JsVMS": {
-      "totalLinesAdded": 10524,
+      "totalLinesAdded": 10597,
       "totalLinesRemoved": 18,
-      "totalActiveTime": 75,
+      "totalActiveTime": 88,
       "files": {
         "c:\\javascript\\projects\\JsVMS\\server\\routes\\userRoutes.js": [
           {
@@ -878,6 +878,160 @@
             "fileName": "c:\\javascript\\projects\\JsVMS\\server\\log\\access.log",
             "fileType": ".log",
             "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "JsVMS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "log"
+          },
+          {
+            "timestamp": "2025-04-04T08:54:50.973Z",
+            "fileName": "c:\\javascript\\projects\\JsVMS\\server\\log\\access.log",
+            "fileType": ".log",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "JsVMS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "log"
+          },
+          {
+            "timestamp": "2025-04-04T08:55:42.096Z",
+            "fileName": "c:\\javascript\\projects\\JsVMS\\server\\log\\access.log",
+            "fileType": ".log",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "JsVMS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "log"
+          },
+          {
+            "timestamp": "2025-04-04T08:55:50.346Z",
+            "fileName": "c:\\javascript\\projects\\JsVMS\\server\\log\\access.log",
+            "fileType": ".log",
+            "linesAdded": 31,
+            "linesRemoved": 0,
+            "projectName": "JsVMS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "log"
+          },
+          {
+            "timestamp": "2025-04-04T08:56:19.423Z",
+            "fileName": "c:\\javascript\\projects\\JsVMS\\server\\log\\access.log",
+            "fileType": ".log",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "JsVMS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "log"
+          },
+          {
+            "timestamp": "2025-04-04T08:56:49.485Z",
+            "fileName": "c:\\javascript\\projects\\JsVMS\\server\\log\\access.log",
+            "fileType": ".log",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "JsVMS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "log"
+          },
+          {
+            "timestamp": "2025-04-04T08:56:52.502Z",
+            "fileName": "c:\\javascript\\projects\\JsVMS\\server\\log\\access.log",
+            "fileType": ".log",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "JsVMS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "log"
+          },
+          {
+            "timestamp": "2025-04-04T08:58:04.626Z",
+            "fileName": "c:\\javascript\\projects\\JsVMS\\server\\log\\access.log",
+            "fileType": ".log",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "JsVMS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "log"
+          },
+          {
+            "timestamp": "2025-04-04T08:58:54.454Z",
+            "fileName": "c:\\javascript\\projects\\JsVMS\\server\\log\\access.log",
+            "fileType": ".log",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "JsVMS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "log"
+          },
+          {
+            "timestamp": "2025-04-04T08:59:14.034Z",
+            "fileName": "c:\\javascript\\projects\\JsVMS\\server\\log\\access.log",
+            "fileType": ".log",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "JsVMS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "log"
+          },
+          {
+            "timestamp": "2025-04-04T08:59:14.984Z",
+            "fileName": "c:\\javascript\\projects\\JsVMS\\server\\log\\access.log",
+            "fileType": ".log",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "JsVMS",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "log"
+          },
+          {
+            "timestamp": "2025-04-04T08:59:17.973Z",
+            "fileName": "c:\\javascript\\projects\\JsVMS\\server\\log\\access.log",
+            "fileType": ".log",
+            "linesAdded": 31,
             "linesRemoved": 0,
             "projectName": "JsVMS",
             "content": {
