@@ -2,9 +2,9 @@
   "date": "2025-05-01",
   "projects": {
     "GO": {
-      "totalLinesAdded": 31,
-      "totalLinesRemoved": 9,
-      "totalActiveTime": 19,
+      "totalLinesAdded": 43,
+      "totalLinesRemoved": 10,
+      "totalActiveTime": 24,
       "files": {
         "c:\\GO\\main.go": [
           {
@@ -121,6 +121,62 @@
               "removed": []
             },
             "duration": 4,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-05-01T11:34:45.250Z",
+            "fileName": "c:\\Users\\alfa\\AppData\\Roaming\\Code\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "GO",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-05-01T11:35:43.151Z",
+            "fileName": "c:\\Users\\alfa\\AppData\\Roaming\\Code\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "GO",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-05-01T11:36:23.450Z",
+            "fileName": "c:\\Users\\alfa\\AppData\\Roaming\\Code\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "GO",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-05-01T11:37:22.235Z",
+            "fileName": "c:\\Users\\alfa\\AppData\\Roaming\\Code\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "GO",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "json"
           }
         ]
