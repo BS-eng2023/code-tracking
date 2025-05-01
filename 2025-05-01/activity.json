@@ -2,9 +2,9 @@
   "date": "2025-05-01",
   "projects": {
     "GO": {
-      "totalLinesAdded": 4,
+      "totalLinesAdded": 9,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 1,
+      "totalActiveTime": 7,
       "files": {
         "c:\\GO\\main.go": [
           {
@@ -26,6 +26,36 @@
             "fileName": "c:\\GO\\main.go",
             "fileType": ".go",
             "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "GO",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "go"
+          }
+        ],
+        "c:\\GO\\firstExample01\\main.go": [
+          {
+            "timestamp": "2025-05-01T11:23:08.153Z",
+            "fileName": "c:\\GO\\firstExample01\\main.go",
+            "fileType": ".go",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "GO",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "go"
+          },
+          {
+            "timestamp": "2025-05-01T11:23:37.384Z",
+            "fileName": "c:\\GO\\firstExample01\\main.go",
+            "fileType": ".go",
+            "linesAdded": 1,
             "linesRemoved": 0,
             "projectName": "GO",
             "content": {
