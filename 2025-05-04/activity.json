@@ -3,8 +3,8 @@
   "projects": {
     "Project": {
       "totalLinesAdded": 2768,
-      "totalLinesRemoved": 816,
-      "totalActiveTime": 152,
+      "totalLinesRemoved": 817,
+      "totalActiveTime": 156,
       "files": {
         "c:\\React\\Project\\recipe-app\\src\\main.jsx": [
           {
@@ -1373,6 +1373,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-05-04T14:05:24.325Z",
+            "fileName": "c:\\React\\Project\\recipe-app\\server\\data\\recipes.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Project",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
             "language": "json"
           }
         ],
