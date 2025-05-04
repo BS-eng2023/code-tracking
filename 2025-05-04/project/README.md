@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 4141                                          |
-| **Lines Removed** (➖) | 1924                                        |
-| **Net Change** (↕)    | 2217                |
-| **Active Time** (⌚)   | 281 minutes |
+| **Lines Added** (➕)   | 4165                                          |
+| **Lines Removed** (➖) | 1960                                        |
+| **Net Change** (↕)    | 2205                |
+| **Active Time** (⌚)   | 287 minutes |
 
 
 ## Modified Files
@@ -31,7 +31,7 @@
 - **package.json** (+15, -0)
 - **server.js** (+92, -0)
 - **recipes.json** (+370, -172)
-- **index.css** (+312, -62)
+- **index.css** (+336, -98)
 - **Homepage.css** (+73, -0)
 - **RecipeDetails.css** (+143, -0)
 - **RecipeDetail.css** (+183, -0)
@@ -46,7 +46,7 @@ title Lines changed by file type
 ".jsx" : 1948
 ".json" : 701
 ".js" : 205
-".css" : 3211
+".css" : 3271
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -61,8 +61,8 @@ title Coding activity by hour (count of changes)
 "15h" : 22
 "16h" : 34
 "17h" : 34
-"18h" : 7
+"18h" : 11
 ```
 
 
-> **Last Updated:** 5/4/2025, 6:28:00 PM
+> **Last Updated:** 5/4/2025, 6:33:00 PM
