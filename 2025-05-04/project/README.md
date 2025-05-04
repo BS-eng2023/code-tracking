@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2052                                          |
+| **Lines Added** (➕)   | 2098                                          |
 | **Lines Removed** (➖) | 728                                        |
-| **Net Change** (↕)    | 1324                |
-| **Active Time** (⌚)   | 90 minutes |
+| **Net Change** (↕)    | 1370                |
+| **Active Time** (⌚)   | 94 minutes |
 
 
 ## Modified Files
@@ -27,6 +27,7 @@
 - **Navbar.jsx** (+25, -0)
 - **App.css** (+960, -465)
 - **recipes.json** (+69, -6)
+- **server.js** (+46, -0)
 
 ## Visualizations
 
@@ -37,7 +38,7 @@ pie showData
 title Lines changed by file type
 ".jsx" : 1144
 ".json" : 144
-".js" : 67
+".js" : 113
 ".css" : 1425
 ```
 
@@ -49,8 +50,8 @@ title Coding activity by hour (count of changes)
 "11h" : 8
 "12h" : 41
 "13h" : 10
-"14h" : 6
+"14h" : 8
 ```
 
 
-> **Last Updated:** 5/4/2025, 2:28:00 PM
+> **Last Updated:** 5/4/2025, 2:33:00 PM
