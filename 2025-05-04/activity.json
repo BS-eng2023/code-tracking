@@ -2,9 +2,9 @@
   "date": "2025-05-04",
   "projects": {
     "Project": {
-      "totalLinesAdded": 3002,
-      "totalLinesRemoved": 967,
-      "totalActiveTime": 177,
+      "totalLinesAdded": 3073,
+      "totalLinesRemoved": 974,
+      "totalActiveTime": 182,
       "files": {
         "c:\\React\\Project\\recipe-app\\src\\main.jsx": [
           {
@@ -1619,6 +1619,62 @@
             "fileType": ".json",
             "linesAdded": 0,
             "linesRemoved": 18,
+            "projectName": "Project",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-05-04T14:43:59.337Z",
+            "fileName": "c:\\React\\Project\\recipe-app\\server\\data\\recipes.json",
+            "fileType": ".json",
+            "linesAdded": 71,
+            "linesRemoved": 0,
+            "projectName": "Project",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-05-04T14:44:43.359Z",
+            "fileName": "c:\\React\\Project\\recipe-app\\server\\data\\recipes.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "Project",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-05-04T14:45:11.219Z",
+            "fileName": "c:\\React\\Project\\recipe-app\\server\\data\\recipes.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Project",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-05-04T14:45:25.031Z",
+            "fileName": "c:\\React\\Project\\recipe-app\\server\\data\\recipes.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 4,
             "projectName": "Project",
             "content": {
               "added": [],
