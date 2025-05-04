@@ -2,9 +2,9 @@
   "date": "2025-05-04",
   "projects": {
     "Project": {
-      "totalLinesAdded": 3141,
+      "totalLinesAdded": 3321,
       "totalLinesRemoved": 993,
-      "totalActiveTime": 192,
+      "totalActiveTime": 201,
       "files": {
         "c:\\React\\Project\\recipe-app\\src\\main.jsx": [
           {
@@ -1766,6 +1766,20 @@
             },
             "duration": 1,
             "language": "json"
+          },
+          {
+            "timestamp": "2025-05-04T14:57:52.282Z",
+            "fileName": "c:\\React\\Project\\recipe-app\\server\\data\\recipes.json",
+            "fileType": ".json",
+            "linesAdded": 107,
+            "linesRemoved": 0,
+            "projectName": "Project",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "json"
           }
         ],
         "c:\\React\\Project\\recipe-app\\src\\index.css": [
@@ -1809,6 +1823,36 @@
               "removed": []
             },
             "duration": 2,
+            "language": "css"
+          }
+        ],
+        "c:\\React\\Project\\recipe-app\\src\\pages\\Homepage.css": [
+          {
+            "timestamp": "2025-05-04T14:54:03.726Z",
+            "fileName": "c:\\React\\Project\\recipe-app\\src\\pages\\Homepage.css",
+            "fileType": ".css",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Project",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-05-04T14:54:05.024Z",
+            "fileName": "c:\\React\\Project\\recipe-app\\src\\pages\\Homepage.css",
+            "fileType": ".css",
+            "linesAdded": 72,
+            "linesRemoved": 0,
+            "projectName": "Project",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "css"
           }
         ]
