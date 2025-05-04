@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 3464                                          |
-| **Lines Removed** (➖) | 994                                        |
-| **Net Change** (↕)    | 2470                |
-| **Active Time** (⌚)   | 208 minutes |
+| **Lines Added** (➕)   | 3523                                          |
+| **Lines Removed** (➖) | 1087                                        |
+| **Net Change** (↕)    | 2436                |
+| **Active Time** (⌚)   | 218 minutes |
 
 
 ## Modified Files
@@ -21,7 +21,7 @@
 - **FavoriteButton.jsx** (+48, -10)
 - **RecipeDetail.jsx** (+251, -78)
 - **RecipeList.jsx** (+60, -30)
-- **RecipePage.jsx** (+178, -102)
+- **RecipePage.jsx** (+237, -195)
 - **favoritesSlice.js** (+54, -0)
 - **store.js** (+13, -0)
 - **Navbar.jsx** (+25, -0)
@@ -42,7 +42,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".jsx" : 1617
+".jsx" : 1769
 ".json" : 656
 ".js" : 205
 ".css" : 1980
@@ -59,8 +59,8 @@ title Coding activity by hour (count of changes)
 "14h" : 14
 "15h" : 22
 "16h" : 34
-"17h" : 3
+"17h" : 11
 ```
 
 
-> **Last Updated:** 5/4/2025, 5:03:00 PM
+> **Last Updated:** 5/4/2025, 5:08:00 PM
