@@ -2,7 +2,7 @@
   "date": "2025-05-04",
   "projects": {
     "Project": {
-      "totalLinesAdded": 5172,
+      "totalLinesAdded": 5249,
       "totalLinesRemoved": 2234,
       "totalActiveTime": 342,
       "files": {
@@ -1047,6 +1047,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-05-04T21:08:13.958Z",
+            "fileName": "c:\\React\\Project\\recipe-app\\src\\pages\\RecipePage.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 77,
+            "linesRemoved": 0,
+            "projectName": "Project",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "jsx"
           }
         ],
