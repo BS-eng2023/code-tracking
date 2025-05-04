@@ -3,8 +3,8 @@
   "projects": {
     "Project": {
       "totalLinesAdded": 1428,
-      "totalLinesRemoved": 273,
-      "totalActiveTime": 72,
+      "totalLinesRemoved": 526,
+      "totalActiveTime": 77,
       "files": {
         "c:\\React\\Project\\recipe-app\\src\\main.jsx": [
           {
@@ -145,6 +145,20 @@
             "fileType": ".jsx",
             "linesAdded": 0,
             "linesRemoved": 43,
+            "projectName": "Project",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-05-04T11:13:53.039Z",
+            "fileName": "c:\\React\\Project\\recipe-app\\src\\pages\\HomePage.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 0,
+            "linesRemoved": 13,
             "projectName": "Project",
             "content": {
               "added": [],
@@ -393,6 +407,20 @@
             "fileType": ".jsx",
             "linesAdded": 0,
             "linesRemoved": 4,
+            "projectName": "Project",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-05-04T11:13:21.551Z",
+            "fileName": "c:\\React\\Project\\recipe-app\\src\\components\\RecipeDetail.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 0,
+            "linesRemoved": 6,
             "projectName": "Project",
             "content": {
               "added": [],
@@ -733,6 +761,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-05-04T11:15:02.447Z",
+            "fileName": "c:\\React\\Project\\recipe-app\\src\\App.css",
+            "fileType": ".css",
+            "linesAdded": 0,
+            "linesRemoved": 234,
+            "projectName": "Project",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "css"
           }
         ],
