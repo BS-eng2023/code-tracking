@@ -2,9 +2,9 @@
   "date": "2025-05-04",
   "projects": {
     "Project": {
-      "totalLinesAdded": 2113,
+      "totalLinesAdded": 2205,
       "totalLinesRemoved": 728,
-      "totalActiveTime": 95,
+      "totalActiveTime": 102,
       "files": {
         "c:\\React\\Project\\recipe-app\\src\\main.jsx": [
           {
@@ -1006,6 +1006,36 @@
             },
             "duration": 1,
             "language": "json"
+          }
+        ],
+        "c:\\React\\Project\\recipe-app\\server\\server.js": [
+          {
+            "timestamp": "2025-05-04T12:53:09.334Z",
+            "fileName": "c:\\React\\Project\\recipe-app\\server\\server.js",
+            "fileType": ".js",
+            "linesAdded": 46,
+            "linesRemoved": 0,
+            "projectName": "Project",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-05-04T12:56:48.424Z",
+            "fileName": "c:\\React\\Project\\recipe-app\\server\\server.js",
+            "fileType": ".js",
+            "linesAdded": 46,
+            "linesRemoved": 0,
+            "projectName": "Project",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "js"
           }
         ]
       },
