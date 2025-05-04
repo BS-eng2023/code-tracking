@@ -2,9 +2,9 @@
   "date": "2025-05-04",
   "projects": {
     "Project": {
-      "totalLinesAdded": 1145,
-      "totalLinesRemoved": 74,
-      "totalActiveTime": 61,
+      "totalLinesAdded": 1154,
+      "totalLinesRemoved": 86,
+      "totalActiveTime": 62,
       "files": {
         "c:\\React\\Project\\recipe-app\\src\\main.jsx": [
           {
@@ -212,6 +212,20 @@
             },
             "duration": 1,
             "language": "jsx"
+          },
+          {
+            "timestamp": "2025-05-04T10:42:50.707Z",
+            "fileName": "c:\\React\\Project\\recipe-app\\src\\components\\RecipeForm.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 0,
+            "linesRemoved": 12,
+            "projectName": "Project",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
           }
         ],
         "c:\\React\\Project\\recipe-app\\src\\components\\SearchFilter.jsx": [
@@ -285,6 +299,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-05-04T10:42:16.737Z",
+            "fileName": "c:\\React\\Project\\recipe-app\\src\\components\\FavoriteButton.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 9,
+            "linesRemoved": 0,
+            "projectName": "Project",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "jsx"
           }
         ],
