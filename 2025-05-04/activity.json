@@ -2,9 +2,9 @@
   "date": "2025-05-04",
   "projects": {
     "Project": {
-      "totalLinesAdded": 1677,
+      "totalLinesAdded": 1776,
       "totalLinesRemoved": 587,
-      "totalActiveTime": 77,
+      "totalActiveTime": 82,
       "files": {
         "c:\\React\\Project\\recipe-app\\src\\main.jsx": [
           {
@@ -166,6 +166,20 @@
             },
             "duration": 1,
             "language": "jsx"
+          },
+          {
+            "timestamp": "2025-05-04T11:53:37.136Z",
+            "fileName": "c:\\React\\Project\\recipe-app\\src\\pages\\HomePage.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 38,
+            "linesRemoved": 0,
+            "projectName": "Project",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "jsx"
           }
         ],
         "c:\\React\\Project\\recipe-app\\src\\pages\\FavoritesPage.jsx": [
@@ -267,6 +281,20 @@
               "removed": []
             },
             "duration": 0,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-05-04T11:57:47.580Z",
+            "fileName": "c:\\React\\Project\\recipe-app\\src\\components\\RecipeForm.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 61,
+            "linesRemoved": 0,
+            "projectName": "Project",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
             "language": "jsx"
           }
         ],
