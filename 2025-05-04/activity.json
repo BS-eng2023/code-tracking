@@ -2,9 +2,9 @@
   "date": "2025-05-04",
   "projects": {
     "Project": {
-      "totalLinesAdded": 2768,
-      "totalLinesRemoved": 817,
-      "totalActiveTime": 156,
+      "totalLinesAdded": 2769,
+      "totalLinesRemoved": 819,
+      "totalActiveTime": 158,
       "files": {
         "c:\\React\\Project\\recipe-app\\src\\main.jsx": [
           {
@@ -623,6 +623,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-05-04T14:12:15.077Z",
+            "fileName": "c:\\React\\Project\\recipe-app\\src\\components\\RecipeDetail.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Project",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "jsx"
           }
         ],
@@ -1387,6 +1401,34 @@
               "removed": []
             },
             "duration": 4,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-05-04T14:12:45.784Z",
+            "fileName": "c:\\React\\Project\\recipe-app\\server\\data\\recipes.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Project",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-05-04T14:12:55.754Z",
+            "fileName": "c:\\React\\Project\\recipe-app\\server\\data\\recipes.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Project",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "json"
           }
         ],
