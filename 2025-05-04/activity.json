@@ -2,9 +2,9 @@
   "date": "2025-05-04",
   "projects": {
     "Project": {
-      "totalLinesAdded": 2905,
-      "totalLinesRemoved": 859,
-      "totalActiveTime": 167,
+      "totalLinesAdded": 2906,
+      "totalLinesRemoved": 878,
+      "totalActiveTime": 169,
       "files": {
         "c:\\React\\Project\\recipe-app\\src\\main.jsx": [
           {
@@ -782,6 +782,20 @@
             },
             "duration": 1,
             "language": "jsx"
+          },
+          {
+            "timestamp": "2025-05-04T14:29:41.954Z",
+            "fileName": "c:\\React\\Project\\recipe-app\\src\\pages\\RecipePage.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 0,
+            "linesRemoved": 18,
+            "projectName": "Project",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "jsx"
           }
         ],
         "c:\\React\\Project\\recipe-app\\src\\redux\\favoritesSlice.js": [
@@ -1507,6 +1521,34 @@
             "fileType": ".json",
             "linesAdded": 0,
             "linesRemoved": 19,
+            "projectName": "Project",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-05-04T14:29:56.843Z",
+            "fileName": "c:\\React\\Project\\recipe-app\\server\\data\\recipes.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Project",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-05-04T14:30:10.375Z",
+            "fileName": "c:\\React\\Project\\recipe-app\\server\\data\\recipes.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
             "projectName": "Project",
             "content": {
               "added": [],
