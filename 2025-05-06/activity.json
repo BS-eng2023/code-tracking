@@ -1,0 +1,61 @@
+{
+  "date": "2025-05-06",
+  "projects": {
+    "htdocs": {
+      "totalLinesAdded": 3,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "c:\\xampp\\htdocs\\day00\\new.php": [
+          {
+            "timestamp": "2025-05-06T06:21:30.640Z",
+            "fileName": "c:\\xampp\\htdocs\\day00\\new.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "htdocs",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-05-06T06:22:14.194Z",
+            "fileName": "c:\\xampp\\htdocs\\day00\\new.php",
+            "fileType": ".php",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "htdocs",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ]
+      },
+      "languageStats": {
+        "php": 1
+      },
+      "changeFrequency": {
+        "8": 1
+      },
+      "topFiles": [
+        "c:\\xampp\\htdocs\\day00\\new.php"
+      ],
+      "averageChangeSize": 1.5
+    }
+  },
+  "totalActiveTime": 1,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    8
+  ],
+  "mostUsedLanguages": [
+    "php"
+  ]
+}
