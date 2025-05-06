@@ -2,7 +2,7 @@
   "date": "2025-05-06",
   "projects": {
     "htdocs": {
-      "totalLinesAdded": 3,
+      "totalLinesAdded": 6,
       "totalLinesRemoved": 0,
       "totalActiveTime": 1,
       "files": {
@@ -33,6 +33,22 @@
               "removed": []
             },
             "duration": 1,
+            "language": "php"
+          }
+        ],
+        "c:\\xampp\\htdocs\\day00\\index.php": [
+          {
+            "timestamp": "2025-05-06T06:32:59.582Z",
+            "fileName": "c:\\xampp\\htdocs\\day00\\index.php",
+            "fileType": ".php",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "htdocs",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "php"
           }
         ]
