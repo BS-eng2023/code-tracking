@@ -1,0 +1,64 @@
+{
+  "date": "2025-05-07",
+  "projects": {
+    "htdocs": {
+      "totalLinesAdded": 300,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "c:\\xampp\\htdocs\\day00\\index.php": [
+          {
+            "timestamp": "2025-05-07T18:57:10.151Z",
+            "fileName": "c:\\xampp\\htdocs\\day00\\index.php",
+            "fileType": ".php",
+            "linesAdded": 157,
+            "linesRemoved": 0,
+            "projectName": "htdocs",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "php"
+          }
+        ],
+        "c:\\xampp\\htdocs\\day00\\loesung_tag01.php": [
+          {
+            "timestamp": "2025-05-07T18:57:27.751Z",
+            "fileName": "c:\\xampp\\htdocs\\day00\\loesung_tag01.php",
+            "fileType": ".php",
+            "linesAdded": 143,
+            "linesRemoved": 0,
+            "projectName": "htdocs",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ]
+      },
+      "languageStats": {
+        "php": 1
+      },
+      "changeFrequency": {
+        "20": 1
+      },
+      "topFiles": [
+        "c:\\xampp\\htdocs\\day00\\index.php",
+        "c:\\xampp\\htdocs\\day00\\loesung_tag01.php"
+      ],
+      "averageChangeSize": 150
+    }
+  },
+  "totalActiveTime": 1,
+  "totalProjects": 1,
+  "totalFiles": 2,
+  "mostActiveHours": [
+    20
+  ],
+  "mostUsedLanguages": [
+    "php"
+  ]
+}
