@@ -2,9 +2,9 @@
   "date": "2025-05-08",
   "projects": {
     "React": {
-      "totalLinesAdded": 1346,
-      "totalLinesRemoved": 91,
-      "totalActiveTime": 29,
+      "totalLinesAdded": 1400,
+      "totalLinesRemoved": 102,
+      "totalActiveTime": 36,
       "files": {
         "c:\\React\\Project\\recipe-app\\src\\components\\RecipeForm.jsx": [
           {
@@ -33,6 +33,20 @@
               "removed": []
             },
             "duration": 3,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-05-08T08:26:46.250Z",
+            "fileName": "c:\\React\\Project\\recipe-app\\src\\components\\RecipeForm.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 13,
+            "linesRemoved": 0,
+            "projectName": "React",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "jsx"
           }
         ],
@@ -184,6 +198,48 @@
             },
             "duration": 0,
             "language": "jsx"
+          },
+          {
+            "timestamp": "2025-05-08T08:23:40.089Z",
+            "fileName": "c:\\React\\Project\\recipe-app\\src\\components\\RecipeDetail.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 33,
+            "linesRemoved": 0,
+            "projectName": "React",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-05-08T08:25:25.300Z",
+            "fileName": "c:\\React\\Project\\recipe-app\\src\\components\\RecipeDetail.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "React",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-05-08T08:25:48.203Z",
+            "fileName": "c:\\React\\Project\\recipe-app\\src\\components\\RecipeDetail.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 0,
+            "linesRemoved": 8,
+            "projectName": "React",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
           }
         ],
         "c:\\React\\Project\\recipe-app\\src\\components\\FavoriteButton.jsx": [
@@ -251,6 +307,20 @@
             "fileType": ".jsx",
             "linesAdded": 17,
             "linesRemoved": 0,
+            "projectName": "React",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-05-08T08:22:17.205Z",
+            "fileName": "c:\\React\\Project\\recipe-app\\src\\components\\Navbar.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 0,
+            "linesRemoved": 3,
             "projectName": "React",
             "content": {
               "added": [],
