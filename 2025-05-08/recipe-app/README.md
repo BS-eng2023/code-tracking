@@ -5,15 +5,15 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 1125                                          |
-| **Lines Removed** (➖) | 84                                        |
-| **Net Change** (↕)    | 1041                |
-| **Active Time** (⌚)   | 42 minutes |
+| **Lines Removed** (➖) | 108                                        |
+| **Net Change** (↕)    | 1017                |
+| **Active Time** (⌚)   | 43 minutes |
 
 
 ## Modified Files
 - **SearchFilter.jsx** (+69, -1)
 - **HomePage.jsx** (+155, -1)
-- **index.css** (+507, -36)
+- **index.css** (+507, -60)
 - **RecipeForm.jsx** (+255, -46)
 - **FavoritesPage.jsx** (+99, -0)
 - **Navbar.jsx** (+40, -0)
@@ -26,7 +26,7 @@
 pie showData
 title Lines changed by file type
 ".jsx" : 666
-".css" : 543
+".css" : 567
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -37,8 +37,8 @@ title Coding activity by hour (count of changes)
 "11h" : 9
 "12h" : 6
 "13h" : 10
-"14h" : 6
+"14h" : 7
 ```
 
 
-> **Last Updated:** 5/8/2025, 2:14:55 PM
+> **Last Updated:** 5/8/2025, 2:19:55 PM
