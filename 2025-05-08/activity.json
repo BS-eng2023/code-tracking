@@ -576,8 +576,8 @@
     },
     "recipe-app": {
       "totalLinesAdded": 1419,
-      "totalLinesRemoved": 262,
-      "totalActiveTime": 64,
+      "totalLinesRemoved": 263,
+      "totalActiveTime": 69,
       "files": {
         "c:\\React\\Project\\recipe-app\\src\\components\\SearchFilter.jsx": [
           {
@@ -1186,6 +1186,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-05-08T17:09:28.324Z",
+            "fileName": "c:\\React\\Project\\recipe-app\\src\\components\\RecipeForm.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "recipe-app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
             "language": "jsx"
           }
         ],
