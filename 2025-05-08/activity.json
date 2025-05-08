@@ -2,9 +2,9 @@
   "date": "2025-05-08",
   "projects": {
     "React": {
-      "totalLinesAdded": 1638,
-      "totalLinesRemoved": 145,
-      "totalActiveTime": 59,
+      "totalLinesAdded": 1664,
+      "totalLinesRemoved": 163,
+      "totalActiveTime": 67,
       "files": {
         "c:\\React\\Project\\recipe-app\\src\\components\\RecipeForm.jsx": [
           {
@@ -126,6 +126,20 @@
             "fileName": "c:\\React\\Project\\recipe-app\\src\\index.css",
             "fileType": ".css",
             "linesAdded": 70,
+            "linesRemoved": 0,
+            "projectName": "React",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-05-08T09:02:13.100Z",
+            "fileName": "c:\\React\\Project\\recipe-app\\src\\index.css",
+            "fileType": ".css",
+            "linesAdded": 22,
             "linesRemoved": 0,
             "projectName": "React",
             "content": {
@@ -488,6 +502,20 @@
             },
             "duration": 1,
             "language": "jsx"
+          },
+          {
+            "timestamp": "2025-05-08T09:01:53.258Z",
+            "fileName": "c:\\React\\Project\\recipe-app\\src\\pages\\ErrorPage.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 0,
+            "linesRemoved": 18,
+            "projectName": "React",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "jsx"
           }
         ],
         "c:\\React\\Project\\recipe-app\\src\\App.jsx": [
@@ -517,6 +545,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-05-08T08:59:47.354Z",
+            "fileName": "c:\\React\\Project\\recipe-app\\src\\App.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "React",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
             "language": "jsx"
           }
         ]
