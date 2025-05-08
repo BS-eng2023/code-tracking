@@ -2,9 +2,9 @@
   "date": "2025-05-08",
   "projects": {
     "React": {
-      "totalLinesAdded": 1470,
+      "totalLinesAdded": 1539,
       "totalLinesRemoved": 106,
-      "totalActiveTime": 49,
+      "totalActiveTime": 53,
       "files": {
         "c:\\React\\Project\\recipe-app\\src\\components\\RecipeForm.jsx": [
           {
@@ -407,6 +407,36 @@
             "fileType": ".jsx",
             "linesAdded": 0,
             "linesRemoved": 1,
+            "projectName": "React",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          }
+        ],
+        "c:\\React\\Project\\recipe-app\\src\\components\\SearchFilter.jsx": [
+          {
+            "timestamp": "2025-05-08T08:44:20.065Z",
+            "fileName": "c:\\React\\Project\\recipe-app\\src\\components\\SearchFilter.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 43,
+            "linesRemoved": 0,
+            "projectName": "React",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-05-08T08:44:34.137Z",
+            "fileName": "c:\\React\\Project\\recipe-app\\src\\components\\SearchFilter.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 26,
+            "linesRemoved": 0,
             "projectName": "React",
             "content": {
               "added": [],
