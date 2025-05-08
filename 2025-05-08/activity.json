@@ -575,7 +575,7 @@
       "averageChangeSize": 115.5
     },
     "recipe-app": {
-      "totalLinesAdded": 1053,
+      "totalLinesAdded": 1092,
       "totalLinesRemoved": 55,
       "totalActiveTime": 35,
       "files": {
@@ -936,6 +936,22 @@
               "removed": []
             },
             "duration": 1,
+            "language": "jsx"
+          }
+        ],
+        "c:\\React\\Project\\recipe-app\\src\\components\\Navbar.jsx": [
+          {
+            "timestamp": "2025-05-08T12:09:38.041Z",
+            "fileName": "c:\\React\\Project\\recipe-app\\src\\components\\Navbar.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 39,
+            "linesRemoved": 0,
+            "projectName": "recipe-app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "jsx"
           }
         ]
