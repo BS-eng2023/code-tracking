@@ -573,6 +573,53 @@
         "c:\\React\\Project\\recipe-app\\src\\components\\RecipeForm.jsx"
       ],
       "averageChangeSize": 115.5
+    },
+    "recipe-app": {
+      "totalLinesAdded": 69,
+      "totalLinesRemoved": 1,
+      "totalActiveTime": 1,
+      "files": {
+        "c:\\React\\Project\\recipe-app\\src\\components\\SearchFilter.jsx": [
+          {
+            "timestamp": "2025-05-08T09:34:32.351Z",
+            "fileName": "c:\\React\\Project\\recipe-app\\src\\components\\SearchFilter.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 69,
+            "linesRemoved": 0,
+            "projectName": "recipe-app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-05-08T09:34:36.729Z",
+            "fileName": "c:\\React\\Project\\recipe-app\\src\\components\\SearchFilter.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "recipe-app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          }
+        ]
+      },
+      "languageStats": {
+        "jsx": 1
+      },
+      "changeFrequency": {
+        "11": 1
+      },
+      "topFiles": [
+        "c:\\React\\Project\\recipe-app\\src\\components\\SearchFilter.jsx"
+      ],
+      "averageChangeSize": 35
     }
   },
   "totalActiveTime": 3,
