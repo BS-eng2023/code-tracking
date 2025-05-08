@@ -1,0 +1,61 @@
+{
+  "date": "2025-05-08",
+  "projects": {
+    "React": {
+      "totalLinesAdded": 231,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 3,
+      "files": {
+        "c:\\React\\Project\\recipe-app\\src\\components\\RecipeForm.jsx": [
+          {
+            "timestamp": "2025-05-08T07:43:37.049Z",
+            "fileName": "c:\\React\\Project\\recipe-app\\src\\components\\RecipeForm.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 144,
+            "linesRemoved": 0,
+            "projectName": "React",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-05-08T07:46:35.515Z",
+            "fileName": "c:\\React\\Project\\recipe-app\\src\\components\\RecipeForm.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 87,
+            "linesRemoved": 0,
+            "projectName": "React",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "jsx"
+          }
+        ]
+      },
+      "languageStats": {
+        "jsx": 3
+      },
+      "changeFrequency": {
+        "9": 3
+      },
+      "topFiles": [
+        "c:\\React\\Project\\recipe-app\\src\\components\\RecipeForm.jsx"
+      ],
+      "averageChangeSize": 115.5
+    }
+  },
+  "totalActiveTime": 3,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    9
+  ],
+  "mostUsedLanguages": [
+    "jsx"
+  ]
+}
