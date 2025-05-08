@@ -2,9 +2,9 @@
   "date": "2025-05-08",
   "projects": {
     "React": {
-      "totalLinesAdded": 231,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 3,
+      "totalLinesAdded": 720,
+      "totalLinesRemoved": 70,
+      "totalActiveTime": 10,
       "files": {
         "c:\\React\\Project\\recipe-app\\src\\components\\RecipeForm.jsx": [
           {
@@ -34,6 +34,50 @@
             },
             "duration": 3,
             "language": "jsx"
+          }
+        ],
+        "c:\\React\\Project\\recipe-app\\src\\index.css": [
+          {
+            "timestamp": "2025-05-08T07:51:32.870Z",
+            "fileName": "c:\\React\\Project\\recipe-app\\src\\index.css",
+            "fileType": ".css",
+            "linesAdded": 419,
+            "linesRemoved": 0,
+            "projectName": "React",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-05-08T07:51:40.444Z",
+            "fileName": "c:\\React\\Project\\recipe-app\\src\\index.css",
+            "fileType": ".css",
+            "linesAdded": 0,
+            "linesRemoved": 70,
+            "projectName": "React",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-05-08T07:52:01.018Z",
+            "fileName": "c:\\React\\Project\\recipe-app\\src\\index.css",
+            "fileType": ".css",
+            "linesAdded": 70,
+            "linesRemoved": 0,
+            "projectName": "React",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
           }
         ]
       },
