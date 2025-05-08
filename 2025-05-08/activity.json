@@ -575,9 +575,9 @@
       "averageChangeSize": 115.5
     },
     "recipe-app": {
-      "totalLinesAdded": 1092,
-      "totalLinesRemoved": 55,
-      "totalActiveTime": 35,
+      "totalLinesAdded": 1125,
+      "totalLinesRemoved": 84,
+      "totalActiveTime": 42,
       "files": {
         "c:\\React\\Project\\recipe-app\\src\\components\\SearchFilter.jsx": [
           {
@@ -877,6 +877,62 @@
             },
             "duration": 2,
             "language": "css"
+          },
+          {
+            "timestamp": "2025-05-08T12:10:55.370Z",
+            "fileName": "c:\\React\\Project\\recipe-app\\src\\index.css",
+            "fileType": ".css",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "recipe-app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-05-08T12:11:42.964Z",
+            "fileName": "c:\\React\\Project\\recipe-app\\src\\index.css",
+            "fileType": ".css",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "recipe-app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-05-08T12:14:21.604Z",
+            "fileName": "c:\\React\\Project\\recipe-app\\src\\index.css",
+            "fileType": ".css",
+            "linesAdded": 0,
+            "linesRemoved": 29,
+            "projectName": "recipe-app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-05-08T12:14:30.948Z",
+            "fileName": "c:\\React\\Project\\recipe-app\\src\\index.css",
+            "fileType": ".css",
+            "linesAdded": 29,
+            "linesRemoved": 0,
+            "projectName": "recipe-app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
           }
         ],
         "c:\\React\\Project\\recipe-app\\src\\components\\RecipeForm.jsx": [
@@ -952,6 +1008,20 @@
               "removed": []
             },
             "duration": 0,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-05-08T12:10:03.534Z",
+            "fileName": "c:\\React\\Project\\recipe-app\\src\\components\\Navbar.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "recipe-app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "jsx"
           }
         ]
