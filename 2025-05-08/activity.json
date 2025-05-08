@@ -575,7 +575,7 @@
       "averageChangeSize": 115.5
     },
     "recipe-app": {
-      "totalLinesAdded": 69,
+      "totalLinesAdded": 214,
       "totalLinesRemoved": 1,
       "totalActiveTime": 1,
       "files": {
@@ -606,6 +606,22 @@
               "removed": []
             },
             "duration": 1,
+            "language": "jsx"
+          }
+        ],
+        "c:\\React\\Project\\recipe-app\\src\\pages\\HomePage.jsx": [
+          {
+            "timestamp": "2025-05-08T09:39:39.289Z",
+            "fileName": "c:\\React\\Project\\recipe-app\\src\\pages\\HomePage.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 145,
+            "linesRemoved": 0,
+            "projectName": "recipe-app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "jsx"
           }
         ]
