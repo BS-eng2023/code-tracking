@@ -2,9 +2,9 @@
   "date": "2025-05-08",
   "projects": {
     "React": {
-      "totalLinesAdded": 1414,
-      "totalLinesRemoved": 105,
-      "totalActiveTime": 47,
+      "totalLinesAdded": 1470,
+      "totalLinesRemoved": 106,
+      "totalActiveTime": 49,
       "files": {
         "c:\\React\\Project\\recipe-app\\src\\components\\RecipeForm.jsx": [
           {
@@ -363,6 +363,50 @@
             "fileType": ".jsx",
             "linesAdded": 0,
             "linesRemoved": 3,
+            "projectName": "React",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          }
+        ],
+        "c:\\React\\Project\\recipe-app\\src\\components\\RecipeList.jsx": [
+          {
+            "timestamp": "2025-05-08T08:40:54.041Z",
+            "fileName": "c:\\React\\Project\\recipe-app\\src\\components\\RecipeList.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 30,
+            "linesRemoved": 0,
+            "projectName": "React",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-05-08T08:41:13.657Z",
+            "fileName": "c:\\React\\Project\\recipe-app\\src\\components\\RecipeList.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 26,
+            "linesRemoved": 0,
+            "projectName": "React",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-05-08T08:41:24.708Z",
+            "fileName": "c:\\React\\Project\\recipe-app\\src\\components\\RecipeList.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
             "projectName": "React",
             "content": {
               "added": [],
